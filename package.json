@@ -1,0 +1,9 @@
+{
+  "name": "gatsby-site",
+  "version": "1.0.0",
+  "description": "Following https://www.gatsbyjs.org/blog/2019-02-26-getting-started-with-gatsby-themes/",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": ["site", "packages/*"],
+  "private": true
+}
